@@ -7,7 +7,8 @@
 This project is child of general genture detection .It counts fingers and recognizes what is the number you are trying to speak through your gesture.
 > Uses Open CV and Mediapipe library.
 
-![Finger count](https://github.com/vaidehiu/Finger-count/blob/main/finger.gif)
+
+<center><img src="assets/img/finger.gif"/></center>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vaidehiu/Finger-count)
 
