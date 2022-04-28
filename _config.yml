@@ -1,6 +1,19 @@
 title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+logo: /assets/img/logo.jpeg
+description: 
+<p align="center">
+  <a href="pdf/Vaidehi-2yr-Comviva.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vaidehi-u-026a09150">LinkedIn</a> |
+  <a href="https://github.com/vaidehiu">GitHub</a>
+ 
+  <br>  
+  I'm passionate about exploring , playing and enjoying and learning with data.I learn data and understand them and solve the 
+  problems for them to showcase their skills of being representaive data.
+  Professionally a software developer working on AIOps - Artifical Inteligence for IT operations (Focused on making it better as budding data scientist as well as non data scientist)
+  Been part of many ideathon and hackathon to win or participate in innovation culture of industry and technology
+  <br>
+  </p>
+
+
 google_analytics:
 theme: jekyll-theme-minimal
